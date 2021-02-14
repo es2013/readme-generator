@@ -2,9 +2,16 @@
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
-# Description
-Meant to help create a professional looking readme markdown file that includes relevant installations, languages, contributors and more
+## Description
+This project is meant to help create a professional looking readme markdown file that includes relevant installations, languages, contirbutors and more. You just have to answer a few basic questions and voila -- a new readme.md will be created in the 'stored' folder.
 
-# installations
+## installations
+This project uses the following node modules: inquirer, fs, path
+
+
+
+## Author/Contact profile
+[Github Profile](https://github.com/${es2013})
+
 
 
