@@ -1,9 +1,10 @@
-# Professional README Generator 
-[How to create a Professional README](./readme-guide.md)
-
+# README Generator
+AS A developer
+I WANT a README generator
+SO THAT I can quickly create a professional README for a new project
 # Description
-Create a professional README.md for your project
+Meant to help create a professional looking readme markdown file that includes relevant installations, languages, contributors and more
 
-# Installation
+# installations
 
 
