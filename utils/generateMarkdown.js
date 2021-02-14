@@ -30,7 +30,7 @@ ${data.projectLanguages}
 ## Project Contributors
 ${data.projectContributors}
 ### Author/Contact profile
-[Github Profile](https://github.com/${data.username})
+[${data.username}](https://github.com/${data.username})
 `;
 }
 
