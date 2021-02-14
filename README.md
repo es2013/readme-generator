@@ -8,6 +8,11 @@ This project is meant to help create a professional looking readme markdown file
 ## installations
 This project uses the following node modules: inquirer, fs, path
 
+## Languages
+JavaScript,ES6,Node
+
+## Usage
+![questions](./img/readme-generator.png)
 
 
 ## Author/Contact profile

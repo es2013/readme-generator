@@ -27,9 +27,7 @@ ${data.projectInstallation}
 ${data.projectLicense}
 ## Languages
 ${data.projectLanguages}
-## Usage
-${data.projectUsage}
-## Contribution
+## Project Contributors
 ${data.projectContributors}
 ### Author/Contact profile
 [Github Profile](https://github.com/${data.username})
